@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7EA839C2-16B8-4EEE-A310-70EC19952C74}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>KGBUZ_Remont_PK</RootNamespace>
+    <AssemblyName>KGBUZ_Remont_PK</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class\DataBase.cs" />
+    <Compile Include="Main\DobavlenieKategorii.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\DobavlenieKategorii.Designer.cs">
+      <DependentUpon>DobavlenieKategorii.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\Authorization.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\Authorization.Designer.cs">
+      <DependentUpon>Authorization.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\DobavlenieDetaliPK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\DobavlenieDetaliPK.Designer.cs">
+      <DependentUpon>DobavlenieDetaliPK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\InfoError.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\InfoError.Designer.cs">
+      <DependentUpon>InfoError.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\InfoPK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\InfoPK.Designer.cs">
+      <DependentUpon>InfoPK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\InsertDetalPKWrach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\InsertDetalPKWrach.Designer.cs">
+      <DependentUpon>InsertDetalPKWrach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\InsertDetalVSclad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\InsertDetalVSclad.Designer.cs">
+      <DependentUpon>InsertDetalVSclad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\MainAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\MainAdmin.Designer.cs">
+      <DependentUpon>MainAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\MainUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\MainUser.Designer.cs">
+      <DependentUpon>MainUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\Reestr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\Reestr.Designer.cs">
+      <DependentUpon>Reestr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\Sclad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\Sclad.Designer.cs">
+      <DependentUpon>Sclad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Main\DobavlenieKategorii.resx">
+      <DependentUpon>DobavlenieKategorii.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\Authorization.resx">
+      <DependentUpon>Authorization.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\DobavlenieDetaliPK.resx">
+      <DependentUpon>DobavlenieDetaliPK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\InfoError.resx">
+      <DependentUpon>InfoError.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\InfoPK.resx">
+      <DependentUpon>InfoPK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\InsertDetalPKWrach.resx">
+      <DependentUpon>InsertDetalPKWrach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\InsertDetalVSclad.resx">
+      <DependentUpon>InsertDetalVSclad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\MainAdmin.resx">
+      <DependentUpon>MainAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\MainUser.resx">
+      <DependentUpon>MainUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\Reestr.resx">
+      <DependentUpon>Reestr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\Sclad.resx">
+      <DependentUpon>Sclad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

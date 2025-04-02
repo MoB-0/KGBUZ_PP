@@ -1,0 +1,203 @@
+C:\Users\Зонов Кирилл\source\repos\KGBUZ_Remont_PK\KGBUZ_Remont_PK\bin\Debug\KGBUZ_Remont_PK.exe.config
+C:\Users\Зонов Кирилл\source\repos\KGBUZ_Remont_PK\KGBUZ_Remont_PK\bin\Debug\KGBUZ_Remont_PK.exe
+C:\Users\Зонов Кирилл\source\repos\KGBUZ_Remont_PK\KGBUZ_Remont_PK\bin\Debug\KGBUZ_Remont_PK.pdb
+C:\Users\Зонов Кирилл\source\repos\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.csproj.AssemblyReference.cache
+C:\Users\Зонов Кирилл\source\repos\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.Authorization.resources
+C:\Users\Зонов Кирилл\source\repos\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Properties.Resources.resources
+C:\Users\Зонов Кирилл\source\repos\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.csproj.GenerateResource.cache
+C:\Users\Зонов Кирилл\source\repos\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.csproj.CoreCompileInputs.cache
+C:\Users\Зонов Кирилл\source\repos\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.exe
+C:\Users\Зонов Кирилл\source\repos\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.pdb
+C:\Users\Зонов Кирилл\source\repos\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.MainAdmin.resources
+C:\Users\Зонов Кирилл\source\repos\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.MainUser.resources
+C:\Users\Зонов Кирилл\source\repos\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.InfoError.resources
+C:\Users\Зонов Кирилл\source\repos\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.Sclad.resources
+C:\Users\Зонов Кирилл\source\repos\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.InfoPK.resources
+C:\Users\Зонов Кирилл\source\repos\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.Reestr.resources
+C:\Users\Зонов Кирилл\source\repos\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.DobavlenieDetaliPK.resources
+C:\Users\Зонов Кирилл\source\repos\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.InsertDetalVSclad.resources
+C:\Users\Зонов Кирилл\source\repos\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.csproj.ResolveComReference.cache
+C:\Users\Зонов Кирилл\source\repos\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.InsertDetalPKWrach.resources
+C:\Users\Зонов Кирилл\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\bin\Debug\KGBUZ_Remont_PK.exe.config
+C:\Users\Зонов Кирилл\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\bin\Debug\KGBUZ_Remont_PK.exe
+C:\Users\Зонов Кирилл\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\bin\Debug\KGBUZ_Remont_PK.pdb
+C:\Users\Зонов Кирилл\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.csproj.AssemblyReference.cache
+C:\Users\Зонов Кирилл\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.csproj.ResolveComReference.cache
+C:\Users\Зонов Кирилл\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.Authorization.resources
+C:\Users\Зонов Кирилл\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.DobavlenieDetaliPK.resources
+C:\Users\Зонов Кирилл\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.InfoError.resources
+C:\Users\Зонов Кирилл\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.InfoPK.resources
+C:\Users\Зонов Кирилл\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.InsertDetalPKWrach.resources
+C:\Users\Зонов Кирилл\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.InsertDetalVSclad.resources
+C:\Users\Зонов Кирилл\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.MainAdmin.resources
+C:\Users\Зонов Кирилл\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.MainUser.resources
+C:\Users\Зонов Кирилл\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.Reestr.resources
+C:\Users\Зонов Кирилл\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.Sclad.resources
+C:\Users\Зонов Кирилл\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Properties.Resources.resources
+C:\Users\Зонов Кирилл\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.csproj.GenerateResource.cache
+C:\Users\Зонов Кирилл\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.csproj.CoreCompileInputs.cache
+C:\Users\Зонов Кирилл\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.exe
+C:\Users\Зонов Кирилл\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.pdb
+C:\Users\28-тпзоновкм\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\bin\Debug\KGBUZ_Remont_PK.exe.config
+C:\Users\28-тпзоновкм\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\bin\Debug\KGBUZ_Remont_PK.exe
+C:\Users\28-тпзоновкм\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\bin\Debug\KGBUZ_Remont_PK.pdb
+C:\Users\28-тпзоновкм\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.csproj.AssemblyReference.cache
+C:\Users\28-тпзоновкм\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.csproj.ResolveComReference.cache
+C:\Users\28-тпзоновкм\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.Authorization.resources
+C:\Users\28-тпзоновкм\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.DobavlenieDetaliPK.resources
+C:\Users\28-тпзоновкм\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.InfoError.resources
+C:\Users\28-тпзоновкм\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.InfoPK.resources
+C:\Users\28-тпзоновкм\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.InsertDetalPKWrach.resources
+C:\Users\28-тпзоновкм\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.InsertDetalVSclad.resources
+C:\Users\28-тпзоновкм\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.MainAdmin.resources
+C:\Users\28-тпзоновкм\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.MainUser.resources
+C:\Users\28-тпзоновкм\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.Reestr.resources
+C:\Users\28-тпзоновкм\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.Sclad.resources
+C:\Users\28-тпзоновкм\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Properties.Resources.resources
+C:\Users\28-тпзоновкм\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.csproj.GenerateResource.cache
+C:\Users\28-тпзоновкм\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.csproj.CoreCompileInputs.cache
+C:\Users\28-тпзоновкм\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.exe
+C:\Users\28-тпзоновкм\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.pdb
+C:\Users\catne\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\bin\Debug\KGBUZ_Remont_PK.exe.config
+C:\Users\catne\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\bin\Debug\KGBUZ_Remont_PK.exe
+C:\Users\catne\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\bin\Debug\KGBUZ_Remont_PK.pdb
+C:\Users\catne\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.csproj.AssemblyReference.cache
+C:\Users\catne\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.csproj.ResolveComReference.cache
+C:\Users\catne\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.Authorization.resources
+C:\Users\catne\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.DobavlenieDetaliPK.resources
+C:\Users\catne\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.InfoError.resources
+C:\Users\catne\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.InfoPK.resources
+C:\Users\catne\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.InsertDetalPKWrach.resources
+C:\Users\catne\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.InsertDetalVSclad.resources
+C:\Users\catne\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.MainAdmin.resources
+C:\Users\catne\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.MainUser.resources
+C:\Users\catne\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.Reestr.resources
+C:\Users\catne\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.Sclad.resources
+C:\Users\catne\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Properties.Resources.resources
+C:\Users\catne\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.csproj.GenerateResource.cache
+C:\Users\catne\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.csproj.CoreCompileInputs.cache
+C:\Users\catne\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.exe
+C:\Users\catne\Desktop\Доки\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.pdb
+E:\Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\bin\Debug\KGBUZ_Remont_PK.exe.config
+E:\Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\bin\Debug\KGBUZ_Remont_PK.exe
+E:\Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\bin\Debug\KGBUZ_Remont_PK.pdb
+E:\Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.csproj.AssemblyReference.cache
+E:\Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.csproj.ResolveComReference.cache
+E:\Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.Authorization.resources
+E:\Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.DobavlenieDetaliPK.resources
+E:\Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.InfoError.resources
+E:\Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.InfoPK.resources
+E:\Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.InsertDetalPKWrach.resources
+E:\Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.InsertDetalVSclad.resources
+E:\Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.MainAdmin.resources
+E:\Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.MainUser.resources
+E:\Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.Reestr.resources
+E:\Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.Sclad.resources
+E:\Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Properties.Resources.resources
+E:\Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.csproj.GenerateResource.cache
+E:\Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.csproj.CoreCompileInputs.cache
+E:\Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.exe
+E:\Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.pdb
+C:\Users\catne\Desktop\KGBUZ_Remont_PK\KGBUZ_Remont_PK\bin\Debug\KGBUZ_Remont_PK.exe.config
+C:\Users\catne\Desktop\KGBUZ_Remont_PK\KGBUZ_Remont_PK\bin\Debug\KGBUZ_Remont_PK.exe
+C:\Users\catne\Desktop\KGBUZ_Remont_PK\KGBUZ_Remont_PK\bin\Debug\KGBUZ_Remont_PK.pdb
+C:\Users\catne\Desktop\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.csproj.AssemblyReference.cache
+C:\Users\catne\Desktop\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.csproj.ResolveComReference.cache
+C:\Users\catne\Desktop\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.Authorization.resources
+C:\Users\catne\Desktop\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.DobavlenieDetaliPK.resources
+C:\Users\catne\Desktop\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.InfoError.resources
+C:\Users\catne\Desktop\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.InfoPK.resources
+C:\Users\catne\Desktop\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.InsertDetalPKWrach.resources
+C:\Users\catne\Desktop\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.InsertDetalVSclad.resources
+C:\Users\catne\Desktop\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.MainAdmin.resources
+C:\Users\catne\Desktop\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.MainUser.resources
+C:\Users\catne\Desktop\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.Reestr.resources
+C:\Users\catne\Desktop\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.Sclad.resources
+C:\Users\catne\Desktop\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Properties.Resources.resources
+C:\Users\catne\Desktop\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.csproj.GenerateResource.cache
+C:\Users\catne\Desktop\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.csproj.CoreCompileInputs.cache
+C:\Users\catne\Desktop\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.exe
+C:\Users\catne\Desktop\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.pdb
+C:\Users\catne\Desktop\ПП Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\bin\Debug\KGBUZ_Remont_PK.exe.config
+C:\Users\catne\Desktop\ПП Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\bin\Debug\KGBUZ_Remont_PK.exe
+C:\Users\catne\Desktop\ПП Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\bin\Debug\KGBUZ_Remont_PK.pdb
+C:\Users\catne\Desktop\ПП Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.csproj.AssemblyReference.cache
+C:\Users\catne\Desktop\ПП Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.csproj.ResolveComReference.cache
+C:\Users\catne\Desktop\ПП Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.Authorization.resources
+C:\Users\catne\Desktop\ПП Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.DobavlenieDetaliPK.resources
+C:\Users\catne\Desktop\ПП Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.InfoError.resources
+C:\Users\catne\Desktop\ПП Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.InfoPK.resources
+C:\Users\catne\Desktop\ПП Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.InsertDetalPKWrach.resources
+C:\Users\catne\Desktop\ПП Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.InsertDetalVSclad.resources
+C:\Users\catne\Desktop\ПП Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.MainAdmin.resources
+C:\Users\catne\Desktop\ПП Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.MainUser.resources
+C:\Users\catne\Desktop\ПП Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.Reestr.resources
+C:\Users\catne\Desktop\ПП Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.Sclad.resources
+C:\Users\catne\Desktop\ПП Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Properties.Resources.resources
+C:\Users\catne\Desktop\ПП Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.csproj.GenerateResource.cache
+C:\Users\catne\Desktop\ПП Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.csproj.CoreCompileInputs.cache
+C:\Users\catne\Desktop\ПП Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.exe
+C:\Users\catne\Desktop\ПП Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.pdb
+E:\ПП Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\bin\Debug\KGBUZ_Remont_PK.exe.config
+E:\ПП Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\bin\Debug\KGBUZ_Remont_PK.exe
+E:\ПП Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\bin\Debug\KGBUZ_Remont_PK.pdb
+E:\ПП Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.csproj.AssemblyReference.cache
+E:\ПП Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.csproj.ResolveComReference.cache
+E:\ПП Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.Authorization.resources
+E:\ПП Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.DobavlenieDetaliPK.resources
+E:\ПП Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.InfoError.resources
+E:\ПП Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.InfoPK.resources
+E:\ПП Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.InsertDetalPKWrach.resources
+E:\ПП Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.InsertDetalVSclad.resources
+E:\ПП Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.MainAdmin.resources
+E:\ПП Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.MainUser.resources
+E:\ПП Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.Reestr.resources
+E:\ПП Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.Sclad.resources
+E:\ПП Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Properties.Resources.resources
+E:\ПП Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.csproj.GenerateResource.cache
+E:\ПП Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.csproj.CoreCompileInputs.cache
+E:\ПП Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.exe
+E:\ПП Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.pdb
+C:\Users\catne\Desktop\ПП Колледж\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.DobavlenieKategorii.resources
+C:\Users\28-тпЗоновКМ\Desktop\KGBUZ_Remont_PK\KGBUZ_Remont_PK\bin\Debug\KGBUZ_Remont_PK.exe.config
+C:\Users\28-тпЗоновКМ\Desktop\KGBUZ_Remont_PK\KGBUZ_Remont_PK\bin\Debug\KGBUZ_Remont_PK.exe
+C:\Users\28-тпЗоновКМ\Desktop\KGBUZ_Remont_PK\KGBUZ_Remont_PK\bin\Debug\KGBUZ_Remont_PK.pdb
+C:\Users\28-тпЗоновКМ\Desktop\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.csproj.AssemblyReference.cache
+C:\Users\28-тпЗоновКМ\Desktop\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.csproj.ResolveComReference.cache
+C:\Users\28-тпЗоновКМ\Desktop\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.DobavlenieKategorii.resources
+C:\Users\28-тпЗоновКМ\Desktop\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.Authorization.resources
+C:\Users\28-тпЗоновКМ\Desktop\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.DobavlenieDetaliPK.resources
+C:\Users\28-тпЗоновКМ\Desktop\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.InfoError.resources
+C:\Users\28-тпЗоновКМ\Desktop\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.InfoPK.resources
+C:\Users\28-тпЗоновКМ\Desktop\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.InsertDetalPKWrach.resources
+C:\Users\28-тпЗоновКМ\Desktop\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.InsertDetalVSclad.resources
+C:\Users\28-тпЗоновКМ\Desktop\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.MainAdmin.resources
+C:\Users\28-тпЗоновКМ\Desktop\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.MainUser.resources
+C:\Users\28-тпЗоновКМ\Desktop\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.Reestr.resources
+C:\Users\28-тпЗоновКМ\Desktop\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.Sclad.resources
+C:\Users\28-тпЗоновКМ\Desktop\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Properties.Resources.resources
+C:\Users\28-тпЗоновКМ\Desktop\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.csproj.GenerateResource.cache
+C:\Users\28-тпЗоновКМ\Desktop\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.csproj.CoreCompileInputs.cache
+C:\Users\28-тпЗоновКМ\Desktop\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.exe
+C:\Users\28-тпЗоновКМ\Desktop\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.pdb
+H:\Колледж\Курсовое проектирование\KGBUZ_Remont_PK\KGBUZ_Remont_PK\bin\Debug\KGBUZ_Remont_PK.exe.config
+H:\Колледж\Курсовое проектирование\KGBUZ_Remont_PK\KGBUZ_Remont_PK\bin\Debug\KGBUZ_Remont_PK.exe
+H:\Колледж\Курсовое проектирование\KGBUZ_Remont_PK\KGBUZ_Remont_PK\bin\Debug\KGBUZ_Remont_PK.pdb
+H:\Колледж\Курсовое проектирование\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.csproj.AssemblyReference.cache
+H:\Колледж\Курсовое проектирование\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.csproj.ResolveComReference.cache
+H:\Колледж\Курсовое проектирование\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.DobavlenieKategorii.resources
+H:\Колледж\Курсовое проектирование\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.Authorization.resources
+H:\Колледж\Курсовое проектирование\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.DobavlenieDetaliPK.resources
+H:\Колледж\Курсовое проектирование\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.InfoError.resources
+H:\Колледж\Курсовое проектирование\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.InfoPK.resources
+H:\Колледж\Курсовое проектирование\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.InsertDetalPKWrach.resources
+H:\Колледж\Курсовое проектирование\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.InsertDetalVSclad.resources
+H:\Колледж\Курсовое проектирование\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.MainAdmin.resources
+H:\Колледж\Курсовое проектирование\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.MainUser.resources
+H:\Колледж\Курсовое проектирование\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.Reestr.resources
+H:\Колледж\Курсовое проектирование\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Main.Sclad.resources
+H:\Колледж\Курсовое проектирование\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.Properties.Resources.resources
+H:\Колледж\Курсовое проектирование\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.csproj.GenerateResource.cache
+H:\Колледж\Курсовое проектирование\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.csproj.CoreCompileInputs.cache
+H:\Колледж\Курсовое проектирование\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.exe
+H:\Колледж\Курсовое проектирование\KGBUZ_Remont_PK\KGBUZ_Remont_PK\obj\Debug\KGBUZ_Remont_PK.pdb
